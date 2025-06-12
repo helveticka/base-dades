@@ -1,0 +1,6 @@
+# Prioriza archivos .sql como código relevante
+*.sql linguist-detectable=true
+*.sql linguist-language=SQL
+
+# Considera los PDF como documentación (no influyen en el análisis de lenguaje)
+*.pdf linguist-documentation=true
