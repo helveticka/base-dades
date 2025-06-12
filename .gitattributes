@@ -4,3 +4,6 @@
 
 # Considera los PDF como documentación (no influyen en el análisis de lenguaje)
 *.pdf linguist-documentation=true
+
+# Considera los archivos .mdj (como los de StarUML) como documentación
+*.mdj linguist-documentation=true
